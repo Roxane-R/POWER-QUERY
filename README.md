@@ -1,53 +1,38 @@
-# 🌟 Collectez des données en respectant les normes RGPD
+# 🌟 Collecter des données en respectant les normes RGPD
 
 ## 📝 Description brève du projet
-**[Décrivez brièvement votre projet ici : Quel problème résout-il ? Pourquoi est-il important ? Par exemple : "Une application web pour suivre ses objectifs quotidiens."]**
 
----
-
-## 🎯 Mission du projet
-- **[Expliquez la mission principale du projet : "Créer une plateforme conviviale pour connecter des freelances avec des clients."]**
-- **[Ajoutez un ou deux points supplémentaires si nécessaire.]**
-
----
-
-## 🛠️ Objectifs du projet
-Voici les objectifs principaux que ce projet vise à atteindre :
-1. **[Objectif 1 : Exemple - Automatiser un processus manuel pour gagner du temps.]**
-2. **[Objectif 2 : Exemple - Proposer une interface utilisateur simple et intuitive.]**
-3. **[Objectif 3 : Exemple - Permettre la collaboration entre plusieurs utilisateurs.]**
+Dev'Immediat, une société d'assurance automobile fait face à une mise en demeure de la CNIL pour non respect des consignes du RGPD. 
+Les objectifs sont :
+- Proposer des recommandations de règles de gestion à mettre en place afin de respecter ce règlement européen
+- Retravailler les données afin de ne plus permettre l'identification directe ou indirecte d'une personne
+- Réaliser une nouvelle extraction de la base de données en respectant les consignes du RGPD
 
 ---
 
 ## 🧰 Outils et technologies utilisés
-- **Langages** : SQL, M.
-- **Frameworks/Librairies** : [Exemple : React, Django, Flask]
+- **Langages** : SQL, M
 - **Base de données** : SQLiteStudio
-- **Outils de collaboration** : [Exemple : Git, Trello]
-- **Autres outils** : Excel, Power Query
-
+- **Logiciels d'analyse** : Excel, Power Query
+  
 ---
 
 ## 🧠 Soft skills mobilisées
-Ce projet m’a permis de développer ou d’appliquer des compétences humaines telles que :
-- 🔄 **Adaptabilité** : [Expliquez brièvement un exemple : Ex. Adaptation à un framework inconnu.]
-- 👥 **Travail en équipe** : [Exemple : Coordination avec des développeurs back-end et designers.]
-- ⏳ **Gestion du temps** : [Exemple : Planification pour respecter les deadlines.]
-
+- **Pensée critique** : Formuler des recommandations
+- **Compréhension** : Appréhender les enjeux métier
+- **Autonomie** : Agir de façon proactive en mobilisant les ressources disponibles
 ---
 
 ## 🔍 Compétences techniques développées
-En travaillant sur ce projet, j’ai renforcé les compétences suivantes :
-- **[Compétence 1]** : Mise en place d'une méthode ETL
-- **[Compétence 2]** : Anonymisation des données
-- **[Compétence 3]** : [Exemple : Sécurisation d’une application avec des pratiques de cryptage.]
+- Collecter, nettoyer et anonymiser des données
+- Etre sensibilisée aux enjeux de la protection et au traitement des données personnelles
 
 ---
 
 ## 📦 Livrables
 Les livrables de ce projet incluent :
-1. **Synthèse des recommandations**
-2. **Rapport de méthodologie**
-3. **CSV des données traitées**
+1. **Une synthèse des recommandations** pour être conforme au RGPD
+2. **Un rapport de méthodologie** sur le processus ETL de collecte, préparation et anonymisation des données
+3. **Un fichier CSV avec les données extraites**, agrégées et anonymisées
 
 ---
