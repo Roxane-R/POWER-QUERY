@@ -1,7 +1,7 @@
 # 🌟 Collectez des données en respectant les normes RGPD
 
 ## 📝 Description brève du projet
-Dev'Immediat, une société d'assurance automobile fait face à une mise en demeure de la CNIL pour non respect des consignes du RGPD.
+Dev'Immediat, une société d'assurance automobile, fait face à une mise en demeure de la CNIL pour non respect des consignes du RGPD.
 
 Les objectifs sont :
 - Proposer des recommandations de règles de gestion à mettre en place afin de respecter ce règlement européen
