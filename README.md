@@ -1,12 +1,12 @@
 # 🌟 Collectez des données en respectant les normes RGPD
 
 ## 📝 Description brève du projet
-Dev'Immediat, une société d'assurance automobile, fait face à une mise en demeure de la CNIL pour non respect des consignes du RGPD.
+Dev'Immediat, une société d'assurance automobile, a été mise en demeure par la CNIL en raison du non-respect des consignes du RGPD. Afin de se conformer aux réglementations européennes, une refonte des pratiques de gestion des données est nécessaire.
 
 Les objectifs sont :
-- Proposer des recommandations de règles de gestion à mettre en place afin de respecter ce règlement européen
-- Retravailler les données afin de ne plus permettre l'identification directe ou indirecte d'une personne
-- Réaliser une nouvelle extraction de la base de données en respectant les consignes du RGPD
+- Proposer des recommandations pour aligner les règles de gestion des données sur les exigences du RGPD
+- Anonymiser et pseudonymiser les données afin d’empêcher toute identification directe ou indirecte des clients
+- Réaliser une nouvelle extraction de la base de données en garantissant une conformité totale avec le RGPD
 
 ---
 
@@ -33,6 +33,6 @@ Les objectifs sont :
 Les livrables de ce projet incluent :
 1. **Une synthèse des recommandations** pour être conforme au RGPD
 2. **Un rapport de méthodologie** sur le processus ETL de collecte, préparation et anonymisation des données
-3. **Un fichier CSV avec les données extraites**, agrégées et anonymisées
+3. **Un fichier CSV** avec les données extraites, agrégées et anonymisées
 
 ---
